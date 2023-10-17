@@ -1,0 +1,33 @@
+
+div {
+
+    display: inline-block;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+
+.vermelho {
+    background: red;
+}
+
+.verde {
+    background: green;
+}
+
+.amarelo {
+    background: yellow;
+}
+
+.azul {
+    background: blue;
+}
+
+.vermelho_border {
+
+    border: 1px solid black;
+    background: red;
+
+}
